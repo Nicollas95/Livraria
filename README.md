@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O Objetivo desse programa é você poder salvar, editar e exlcuir quando quiser um livro da sua estante virtual. Fácil instalação e utilização. 
+O porograma tem como objetivo salvar, editar e exlcuir quando quiser um livro da sua estante virtual. É de Fácil instalação e utilização. 
 
 
 ## Instruções:
